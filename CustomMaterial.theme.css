@@ -9,8 +9,7 @@
  * @donate https://paypal.me/capnkitten
  * @invite jzJkA6Z
  */
-
-@import "./MaterialCustomHelper.css";
+@import url("https://github.com/Retrokiller543/BetterDiscordThemes/blob/master/_CustomMaterialHelper.css");
 :root {
     --accent-hue: 224;
     --accent-saturation: 71%;
@@ -31,11 +30,6 @@
 .theme-dark {
     --saturation-modifier: 0.175;
     --lightness-modifier: 0.2;
-    --background-primary: rgba(9, 24, 51, 0.4);
-    --background-secondary: rgba(0, 11, 30, 0.4);
-    --background-tertiary: rgba(0, 11, 30, 0.4);
-    --deprecated-panel-background: rgba(9, 24, 51, 0.4);
-    --channeltextarea-background: rgba(19, 62, 124, 0.7);
 }
 
 .theme-light {
